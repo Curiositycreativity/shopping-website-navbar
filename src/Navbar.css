@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 20px;
+    background-color: bisque;
+    }
+    
+    .icon-items{
+    
+        list-style: none;
+        display: flex;
+    
+    }
+    .icon-items li{
+        margin-left: 20px;
+    }
+    .logo{
+        margin-left: 20px;
+    }
+    .nav-items{
+        display: flex;
+        list-style: none;
+    }
+    .main-nav .nav-items li{
+        margin-left: 20px;
+    }
+    .main-nav .nav-items li:hover{
+    color: rgb(40, 212, 155);
+    cursor: pointer;
+    }
+    
