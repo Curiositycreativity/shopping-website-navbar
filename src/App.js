@@ -10,7 +10,7 @@ function App() {
 {/* .....................logo............................. */}
         <div className='logo'>
 
-          <h1>LOGO NAME</h1>
+          <h1>LOGO NAME 2</h1>
         
         </div>
  {/* .....................main-navigation............................. */}
